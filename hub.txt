@@ -2,5 +2,5 @@ hub RRBS_Methylation_Study
 shortLabel RRBS Methylation
 longLabel RRBS Methylation Analysis - Control vs IC vs CLI
 genomesFile genomes.txt
-ahi0003@auburn.edu
+email ahi0003@auburn.edu
 descriptionUrl description.html
