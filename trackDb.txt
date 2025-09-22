@@ -12,7 +12,7 @@ color 0,100,200
 
     track PK1_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK1_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK1_control.bw.gz
     shortLabel PK1 Control
     longLabel PK1 Control CpG Methylation
     type bedGraph
@@ -21,7 +21,7 @@ color 0,100,200
 
     track PK2_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK2_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK2_control.bw.gz
     shortLabel PK2 Control
     longLabel PK2 Control CpG Methylation
     type bedGraph
@@ -30,7 +30,7 @@ color 0,100,200
 
     track PK3_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK3_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK3_control.bw.gz
     shortLabel PK3 Control
     longLabel PK3 Control CpG Methylation
     type bedGraph
@@ -39,7 +39,7 @@ color 0,100,200
 
     track PK4_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK4_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK4_control.bw.gz
     shortLabel PK4 Control
     longLabel PK4 Control CpG Methylation
     type bedGraph
@@ -48,7 +48,7 @@ color 0,100,200
 
     track PK5_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK5_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK5_control.bw.gz
     shortLabel PK5 Control
     longLabel PK5 Control CpG Methylation
     type bedGraph
@@ -57,7 +57,7 @@ color 0,100,200
 
     track PK6_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK6_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK6_control.bw.gz
     shortLabel PK6 Control
     longLabel PK6 Control CpG Methylation
     type bedGraph
@@ -66,7 +66,7 @@ color 0,100,200
 
     track PK7_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK7_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK7_control.bw.gz
     shortLabel PK7 Control
     longLabel PK7 Control CpG Methylation
     type bedGraph
@@ -75,7 +75,7 @@ color 0,100,200
 
     track PK8_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK8_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK8_control.bw.gz
     shortLabel PK8 Control
     longLabel PK8 Control CpG Methylation
     type bedGraph
@@ -84,7 +84,7 @@ color 0,100,200
 
     track PK9_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK9_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK9_control.bw.gz
     shortLabel PK9 Control
     longLabel PK9 Control CpG Methylation
     type bedGraph
@@ -93,7 +93,7 @@ color 0,100,200
 
     track PK10_control
     parent Control_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK10_control.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK10_control.bw.gz
     shortLabel PK10 Control
     longLabel PK10 Control CpG Methylation
     type bedGraph
@@ -114,7 +114,7 @@ color 200,50,50
 
     track PK11_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK11_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK11_IC.bw.gz
     shortLabel PK11 IC
     longLabel PK11 IC CpG Methylation
     type bedGraph
@@ -123,7 +123,7 @@ color 200,50,50
 
     track PK13_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK13_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK13_IC.bw.gz
     shortLabel PK13 IC
     longLabel PK13 IC CpG Methylation
     type bedGraph
@@ -132,7 +132,7 @@ color 200,50,50
 
     track PK15_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK15_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK15_IC.bw.gz
     shortLabel PK15 IC
     longLabel PK15 IC CpG Methylation
     type bedGraph
@@ -141,7 +141,7 @@ color 200,50,50
 
     track PK17_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK17_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK17_IC.bw.gz
     shortLabel PK17 IC
     longLabel PK17 IC CpG Methylation
     type bedGraph
@@ -150,7 +150,7 @@ color 200,50,50
 
     track PK19_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK19_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK19_IC.bw.gz
     shortLabel PK19 IC
     longLabel PK19 IC CpG Methylation
     type bedGraph
@@ -159,7 +159,7 @@ color 200,50,50
 
     track PK21_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK21_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK21_IC.bw.gz
     shortLabel PK21 IC
     longLabel PK21 IC CpG Methylation
     type bedGraph
@@ -168,7 +168,7 @@ color 200,50,50
 
     track PK23_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK23_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK23_IC.bw.gz
     shortLabel PK23 IC
     longLabel PK23 IC CpG Methylation
     type bedGraph
@@ -177,7 +177,7 @@ color 200,50,50
 
     track PK25_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK25_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK25_IC.bw.gz
     shortLabel PK25 IC
     longLabel PK25 IC CpG Methylation
     type bedGraph
@@ -186,7 +186,7 @@ color 200,50,50
 
     track PK27_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK27_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK27_IC.bw.gz
     shortLabel PK27 IC
     longLabel PK27 IC CpG Methylation
     type bedGraph
@@ -195,7 +195,7 @@ color 200,50,50
 
     track PK29_IC
     parent IC_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK29_IC.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK29_IC.bw.gz
     shortLabel PK29 IC
     longLabel PK29 IC CpG Methylation
     type bedGraph
@@ -216,7 +216,7 @@ color 50,150,50
 
     track PK31_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK31_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK31_CLI.bw.gz
     shortLabel PK31 CLI
     longLabel PK31 CLI CpG Methylation
     type bedGraph
@@ -225,7 +225,7 @@ color 50,150,50
 
     track PK32_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK32_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK32_CLI.bw.gz
     shortLabel PK32 CLI
     longLabel PK32 CLI CpG Methylation
     type bedGraph
@@ -234,7 +234,7 @@ color 50,150,50
 
     track PK33_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK33_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK33_CLI.bw.gz
     shortLabel PK33 CLI
     longLabel PK33 CLI CpG Methylation
     type bedGraph
@@ -243,7 +243,7 @@ color 50,150,50
 
     track PK34_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK34_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK34_CLI.bw.gz
     shortLabel PK34 CLI
     longLabel PK34 CLI CpG Methylation
     type bedGraph
@@ -252,7 +252,7 @@ color 50,150,50
 
     track PK35_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK35_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK35_CLI.bw.gz
     shortLabel PK35 CLI
     longLabel PK35 CLI CpG Methylation
     type bedGraph
@@ -261,7 +261,7 @@ color 50,150,50
 
     track PK36_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK36_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK36_CLI.bw.gz
     shortLabel PK36 CLI
     longLabel PK36 CLI CpG Methylation
     type bedGraph
@@ -270,7 +270,7 @@ color 50,150,50
 
     track PK37_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK37_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK37_CLI.bw.gz
     shortLabel PK37 CLI
     longLabel PK37 CLI CpG Methylation
     type bedGraph
@@ -279,7 +279,7 @@ color 50,150,50
 
     track PK38_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK38_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK38_CLI.bw.gz
     shortLabel PK38 CLI
     longLabel PK38 CLI CpG Methylation
     type bedGraph
@@ -288,7 +288,7 @@ color 50,150,50
 
     track PK39_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK39_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK39_CLI.bw.gz
     shortLabel PK39 CLI
     longLabel PK39 CLI CpG Methylation
     type bedGraph
@@ -297,7 +297,7 @@ color 50,150,50
 
     track PK40_CLI
     parent CLI_Group
-    bigDataUrl https://ahi0003.github.io/PAD-rrbs-methylation-tracks/PK40_CLI.bw.gz
+    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK40_CLI.bw.gz
     shortLabel PK40 CLI
     longLabel PK40 CLI CpG Methylation
     type bedGraph
