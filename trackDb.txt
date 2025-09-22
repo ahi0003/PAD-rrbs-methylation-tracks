@@ -214,9 +214,7 @@ autoScale on
 viewLimits 0:100
 color 50,150,50
 
-    track PK31_CLI
     parent CLI_Group
-    bigDataUrl https://github.com/ahi0003/PAD-rrbs-methylation-tracks/raw/main/PK31_CLI.bw
     shortLabel PK31 CLI
     longLabel PK31 CLI CpG Methylation
     type bedGraph
