@@ -15,7 +15,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK1_control.bw
     shortLabel PK1 Control
     longLabel PK1 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -24,7 +24,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK2_control.bw
     shortLabel PK2 Control
     longLabel PK2 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -33,7 +33,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK3_control.bw
     shortLabel PK3 Control
     longLabel PK3 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -42,7 +42,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK4_control.bw
     shortLabel PK4 Control
     longLabel PK4 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -51,7 +51,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK5_control.bw
     shortLabel PK5 Control
     longLabel PK5 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -60,7 +60,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK6_control.bw
     shortLabel PK6 Control
     longLabel PK6 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -69,7 +69,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK7_control.bw
     shortLabel PK7 Control
     longLabel PK7 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -78,7 +78,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK8_control.bw
     shortLabel PK8 Control
     longLabel PK8 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -87,7 +87,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK9_control.bw
     shortLabel PK9 Control
     longLabel PK9 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -96,7 +96,7 @@ color 0,100,200
     bigDataUrl https://zenodo.org/records/17179783/files/PK10_control.bw
     shortLabel PK10 Control
     longLabel PK10 Control CpG Methylation
-    type bedGraph
+    type bigWig
     color 0,100,200
     priority 1
 
@@ -117,7 +117,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK11_IC.bw
     shortLabel PK11 IC
     longLabel PK11 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -126,7 +126,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK13_IC.bw
     shortLabel PK13 IC
     longLabel PK13 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -135,7 +135,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK15_IC.bw
     shortLabel PK15 IC
     longLabel PK15 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -144,7 +144,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK17_IC.bw
     shortLabel PK17 IC
     longLabel PK17 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -153,7 +153,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK19_IC.bw
     shortLabel PK19 IC
     longLabel PK19 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -162,7 +162,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK21_IC.bw
     shortLabel PK21 IC
     longLabel PK21 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -171,7 +171,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK23_IC.bw
     shortLabel PK23 IC
     longLabel PK23 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -180,7 +180,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK25_IC.bw
     shortLabel PK25 IC
     longLabel PK25 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -189,7 +189,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK27_IC.bw
     shortLabel PK27 IC
     longLabel PK27 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -198,7 +198,7 @@ color 200,50,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK29_IC.bw
     shortLabel PK29 IC
     longLabel PK29 IC CpG Methylation
-    type bedGraph
+    type bigWig
     color 200,50,50
     priority 2
 
@@ -219,7 +219,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK31_CLI.bw
     shortLabel PK31 CLI
     longLabel PK31 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -228,7 +228,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK32_CLI.bw
     shortLabel PK32 CLI
     longLabel PK32 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -237,7 +237,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK33_CLI.bw
     shortLabel PK33 CLI
     longLabel PK33 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -246,7 +246,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK34_CLI.bw
     shortLabel PK34 CLI
     longLabel PK34 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -255,7 +255,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK35_CLI.bw
     shortLabel PK35 CLI
     longLabel PK35 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -264,7 +264,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK36_CLI.bw
     shortLabel PK36 CLI
     longLabel PK36 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -273,7 +273,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK37_CLI.bw
     shortLabel PK37 CLI
     longLabel PK37 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -282,7 +282,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK38_CLI.bw
     shortLabel PK38 CLI
     longLabel PK38 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -291,7 +291,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK39_CLI.bw
     shortLabel PK39 CLI
     longLabel PK39 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
@@ -300,7 +300,7 @@ color 50,150,50
     bigDataUrl https://zenodo.org/records/17179783/files/PK40_CLI.bw
     shortLabel PK40 CLI
     longLabel PK40 CLI CpG Methylation
-    type bedGraph
+    type bigWig
     color 50,150,50
     priority 3
 
