@@ -1,0 +1,306 @@
+# Control Group
+track Control_Group
+compositeTrack on
+shortLabel Control
+longLabel Control Samples (PK1-PK10)
+type bedGraph
+visibility hide
+maxHeightPixels 50:30:10
+autoScale on
+viewLimits 0:100
+color 0,100,200
+
+    track PK1_control
+    parent Control_Group
+    bigDataUrl PK1_control_fixed.bedGraph
+    shortLabel PK1 Control
+    longLabel PK1 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK2_control
+    parent Control_Group
+    bigDataUrl PK2_control_fixed.bedGraph
+    shortLabel PK2 Control
+    longLabel PK2 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK3_control
+    parent Control_Group
+    bigDataUrl PK3_control_fixed.bedGraph
+    shortLabel PK3 Control
+    longLabel PK3 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK4_control
+    parent Control_Group
+    bigDataUrl PK4_control_fixed.bedGraph
+    shortLabel PK4 Control
+    longLabel PK4 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK5_control
+    parent Control_Group
+    bigDataUrl PK5_control_fixed.bedGraph
+    shortLabel PK5 Control
+    longLabel PK5 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK6_control
+    parent Control_Group
+    bigDataUrl PK6_control_fixed.bedGraph
+    shortLabel PK6 Control
+    longLabel PK6 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK7_control
+    parent Control_Group
+    bigDataUrl PK7_control_fixed.bedGraph
+    shortLabel PK7 Control
+    longLabel PK7 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK8_control
+    parent Control_Group
+    bigDataUrl PK8_control_fixed.bedGraph
+    shortLabel PK8 Control
+    longLabel PK8 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK9_control
+    parent Control_Group
+    bigDataUrl PK9_control_fixed.bedGraph
+    shortLabel PK9 Control
+    longLabel PK9 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+    track PK10_control
+    parent Control_Group
+    bigDataUrl PK10_control_fixed.bedGraph
+    shortLabel PK10 Control
+    longLabel PK10 Control CpG Methylation
+    type bedGraph
+    color 0,100,200
+    priority 1
+
+# IC Group
+track IC_Group
+compositeTrack on
+shortLabel IC
+longLabel IC Samples
+type bedGraph
+visibility hide
+maxHeightPixels 50:30:10
+autoScale on
+viewLimits 0:100
+color 200,50,50
+
+    track PK11_IC
+    parent IC_Group
+    bigDataUrl PK11_IC_fixed.bedGraph
+    shortLabel PK11 IC
+    longLabel PK11 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK13_IC
+    parent IC_Group
+    bigDataUrl PK13_IC_fixed.bedGraph
+    shortLabel PK13 IC
+    longLabel PK13 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK15_IC
+    parent IC_Group
+    bigDataUrl PK15_IC_fixed.bedGraph
+    shortLabel PK15 IC
+    longLabel PK15 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK17_IC
+    parent IC_Group
+    bigDataUrl PK17_IC_fixed.bedGraph
+    shortLabel PK17 IC
+    longLabel PK17 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK19_IC
+    parent IC_Group
+    bigDataUrl PK19_IC_fixed.bedGraph
+    shortLabel PK19 IC
+    longLabel PK19 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK21_IC
+    parent IC_Group
+    bigDataUrl PK21_IC_fixed.bedGraph
+    shortLabel PK21 IC
+    longLabel PK21 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK23_IC
+    parent IC_Group
+    bigDataUrl PK23_IC_fixed.bedGraph
+    shortLabel PK23 IC
+    longLabel PK23 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK25_IC
+    parent IC_Group
+    bigDataUrl PK25_IC_fixed.bedGraph
+    shortLabel PK25 IC
+    longLabel PK25 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK27_IC
+    parent IC_Group
+    bigDataUrl PK27_IC_fixed.bedGraph
+    shortLabel PK27 IC
+    longLabel PK27 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+    track PK29_IC
+    parent IC_Group
+    bigDataUrl PK29_IC_fixed.bedGraph
+    shortLabel PK29 IC
+    longLabel PK29 IC CpG Methylation
+    type bedGraph
+    color 200,50,50
+    priority 2
+
+# CLI Group
+track CLI_Group
+compositeTrack on
+shortLabel CLI
+longLabel CLI Samples (PK31-PK40)
+type bedGraph
+visibility hide
+maxHeightPixels 50:30:10
+autoScale on
+viewLimits 0:100
+color 50,150,50
+
+    track PK31_CLI
+    parent CLI_Group
+    bigDataUrl PK31_CLI_fixed.bedGraph
+    shortLabel PK31 CLI
+    longLabel PK31 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK32_CLI
+    parent CLI_Group
+    bigDataUrl PK32_CLI_fixed.bedGraph
+    shortLabel PK32 CLI
+    longLabel PK32 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK33_CLI
+    parent CLI_Group
+    bigDataUrl PK33_CLI_fixed.bedGraph
+    shortLabel PK33 CLI
+    longLabel PK33 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK34_CLI
+    parent CLI_Group
+    bigDataUrl PK34_CLI_fixed.bedGraph
+    shortLabel PK34 CLI
+    longLabel PK34 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK35_CLI
+    parent CLI_Group
+    bigDataUrl PK35_CLI_fixed.bedGraph
+    shortLabel PK35 CLI
+    longLabel PK35 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK36_CLI
+    parent CLI_Group
+    bigDataUrl PK36_CLI_fixed.bedGraph
+    shortLabel PK36 CLI
+    longLabel PK36 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK37_CLI
+    parent CLI_Group
+    bigDataUrl PK37_CLI_fixed.bedGraph
+    shortLabel PK37 CLI
+    longLabel PK37 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK38_CLI
+    parent CLI_Group
+    bigDataUrl PK38_CLI_fixed.bedGraph
+    shortLabel PK38 CLI
+    longLabel PK38 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK39_CLI
+    parent CLI_Group
+    bigDataUrl PK39_CLI_fixed.bedGraph
+    shortLabel PK39 CLI
+    longLabel PK39 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
+    track PK40_CLI
+    parent CLI_Group
+    bigDataUrl PK40_CLI_fixed.bedGraph
+    shortLabel PK40 CLI
+    longLabel PK40 CLI CpG Methylation
+    type bedGraph
+    color 50,150,50
+    priority 3
+
